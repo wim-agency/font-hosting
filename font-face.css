@@ -3,12 +3,8 @@
 
 @font-face {
   font-family: 'SuisseIntl'; 
-  src: url('https://whoismark.de/assets/fonts/SuisseIntl-Book-WebM.woff2') format('woff2'),
-    	 url('https://whoismark.de/assets/fonts/SuisseIntl-Book-WebM.woff2') format('woff'); 
-	font-weight: normal; 
-	font-style: normal;
+  src: url('https://whoismark.de/assets/fonts/SuisseIntl-Book-WebM.woff2') format('woff2'); 
+  font-weight: normal; 
+  font-style: normal;
   }
 
-body {
-    font-family: 'SuisseIntl', sans-serif;
-  }
